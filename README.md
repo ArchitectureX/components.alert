@@ -4,8 +4,6 @@
 
 ### Installation
 
-`npm install @architecturex/components.alert`
-
 ### Props
 
 ### Usage
